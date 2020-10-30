@@ -18,7 +18,6 @@ import Data.Map (Map)
 import GHC.Generics
 import Polysemy
 import Polysemy.Error
-import Polysemy.Input
 import Polysemy.KVStore
 import Path
 import qualified UnliftIO.Path.Directory as U
