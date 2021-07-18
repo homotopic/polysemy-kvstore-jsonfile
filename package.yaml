@@ -21,7 +21,7 @@ dependencies:
 - extra
 - path
 - polysemy
-- polysemy-zoo
+- polysemy-kvstore
 - unliftio-path
 
 library:
